@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-backened",
+  "version": "1.0.0",
+  "description": "Backened of ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterBrennan1/Ecommerce-Backened.git"
+  },
+  "author": "Hunter Brennan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HunterBrennan1/Ecommerce-Backened/issues"
+  },
+  "homepage": "https://github.com/HunterBrennan1/Ecommerce-Backened#readme"
+}
